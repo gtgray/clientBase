@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">clientBase</string>
+    <string name="sign_in_upper">SIGN IN</string>
+    <string name="sign_in_error">name or pass you entered is wrong</string>
+    <string name="name">Name</string>
+    <string name="name_error">Name is invalid</string>
+    <string name="pass">Pass</string>
+    <string name="pass_error">Pass is invalid</string>
+
+    <string name="clients">Clients</string>
+    <string name="client_details">Client details</string>
+    <string name="no_client">"Can't find details for this client"</string>
+
+    <string name="maps_key" translatable="false" templateMergeStrategy="preserve">
+        AIzaSyB_2OINVxkTaID4Pzz9FEoAwLGtFwX3q7g
+    </string>
+
+</resources>

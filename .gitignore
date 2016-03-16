@@ -1,0 +1,40 @@
+# built application files
+# excluded *.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+# Java class files
+*.class
+# generated files
+bin/
+gen/
+
+#FileSystem database files
+*.db
+
+#Android studio config files
+classes/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Project files
+.classpath
+.project
+/app/build/
+/out/
+/build/
+/target/
+/.idea/
+/.gradle/
+*.iml
+
+# Phyton scripts
+#*.py
+
+# Crashlytics files
+#res/values/com_crashlytics_export_strings.xml
+#assets/crashlytics-build.properties
+#app/.idea
+#/app/fabric.properties

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="clr_transparent">#00000000</color>
+    <color name="clr_black">#ff000000</color>
+    <color name="clr_white">#ffffffff</color>
+    <color name="clr_green_A700">#ff00C853</color>
+    <color name="clr_green_300">#ff81C784</color>
+    <color name="clr_red_300">#ffE57373</color>
+    <color name="clr_black_15">#26000000</color>
+    <color name="clr_black_30">#4d000000</color>
+
+    <color name="clr_shadow_start">#40000000</color>
+
+    <color name="clr_statusbar">@color/clr_green_300</color>
+    <color name="clr_toolbar">@color/clr_green_A700</color>
+    <color name="clr_accent">@color/clr_red_300</color>
+
+    <color name="clr_btn_simple_disabled">@color/clr_black_30</color>
+    <color name="clr_btn_simple_normal">@color/clr_green_A700</color>
+    <color name="clr_btn_simple_pressed">@color/clr_green_300</color>
+
+</resources>
